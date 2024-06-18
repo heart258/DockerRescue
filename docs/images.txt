@@ -1,1 +1,5 @@
 
+mzz2017/v2raya
+xhongc/music_tag_web
+linuxserver/jackett
+deluan/navidrome
