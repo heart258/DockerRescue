@@ -3,3 +3,6 @@ xhongc/music_tag_web
 linuxserver/jackett
 deluan/navidrome
 gdy666/lucky
+nevinee/qbittorrent
+whyour/qinglong
+jxxghp/moviepilot
